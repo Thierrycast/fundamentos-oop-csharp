@@ -1,0 +1,14 @@
+C:\Users\thier\source\repos\C#\Thierry\bin\Debug\net7.0\Thierry.exe
+C:\Users\thier\source\repos\C#\Thierry\bin\Debug\net7.0\Thierry.deps.json
+C:\Users\thier\source\repos\C#\Thierry\bin\Debug\net7.0\Thierry.runtimeconfig.json
+C:\Users\thier\source\repos\C#\Thierry\bin\Debug\net7.0\Thierry.dll
+C:\Users\thier\source\repos\C#\Thierry\bin\Debug\net7.0\Thierry.pdb
+C:\Users\thier\source\repos\C#\Thierry\obj\Debug\net7.0\Thierry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thier\source\repos\C#\Thierry\obj\Debug\net7.0\Thierry.AssemblyInfoInputs.cache
+C:\Users\thier\source\repos\C#\Thierry\obj\Debug\net7.0\Thierry.AssemblyInfo.cs
+C:\Users\thier\source\repos\C#\Thierry\obj\Debug\net7.0\Thierry.csproj.CoreCompileInputs.cache
+C:\Users\thier\source\repos\C#\Thierry\obj\Debug\net7.0\Thierry.dll
+C:\Users\thier\source\repos\C#\Thierry\obj\Debug\net7.0\refint\Thierry.dll
+C:\Users\thier\source\repos\C#\Thierry\obj\Debug\net7.0\Thierry.pdb
+C:\Users\thier\source\repos\C#\Thierry\obj\Debug\net7.0\Thierry.genruntimeconfig.cache
+C:\Users\thier\source\repos\C#\Thierry\obj\Debug\net7.0\ref\Thierry.dll
